@@ -8,4 +8,7 @@ right now our code looks like huge byte code <br>
 
 and anybody looking at our contract directly on chain will see huge bytecode <br>
 
+we can use decompiler to decompile the bytecode into what it looks <br>
+like in solidity <br>
+
 
