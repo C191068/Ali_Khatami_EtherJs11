@@ -54,6 +54,10 @@ if we click the button shown with black arrow we will see our whole code <br>
 we will copy our this contract address <br>
 
 
+![m66](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/c4f4bcee-f64a-458e-bf49-11fbb06e6229)
+
+now if we paste it at filter we can see that anybody can read our contract code and that is what we <br>
+called smart contract to be transparent <br>
 
 
 
