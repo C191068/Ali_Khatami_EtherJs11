@@ -75,13 +75,6 @@ thus our contract is verified <br>
 using larger or complex code can make verfication process a much harder <br>
 
 
-### Alchemy dashboard and the Mempool 
-
-Alchemy can teach us and show us a lot about transaction <br>
-
-also teach us baout things that are going behind the scene <br>
-
-including a concept called mempool <br>
 
 
 
