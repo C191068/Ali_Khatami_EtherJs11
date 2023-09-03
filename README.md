@@ -77,6 +77,24 @@ using larger or complex code can make verfication process a much harder <br>
 
 ### Alchemy dashboard and the Mempool 
 
+Alchemy can teach us and show us a lot about transaction <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
