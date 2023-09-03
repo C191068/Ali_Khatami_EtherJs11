@@ -31,7 +31,10 @@ we have added the above information <br>
 then we click the ```Continue``` button <br>
 
 
+![m61](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/824c7994-093c-47e4-85b0-3decc6e2e27a)
 
+
+we paste the code here shown above <br>
 
 
 
