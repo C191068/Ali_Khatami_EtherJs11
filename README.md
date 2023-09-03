@@ -12,3 +12,5 @@ we can use decompiler to decompile the bytecode into what it looks <br>
 like in solidity <br>
 
 
+But this can take a long time and lot of processing power <br>
+
