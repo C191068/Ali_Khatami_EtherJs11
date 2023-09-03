@@ -65,6 +65,9 @@ the button we saw at remix to read from our contract we can see it here <br>
 ![m68](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/8d0707d2-4785-473b-a7fd-7122046a4b13)
 the button we saw at remix to write from our contract we can see it here <br>
 
+![m69](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/b291c8b5-da34-48a7-99bb-9b04364d26c4)
+
+if we click this read contract button and click the retrieve button we can see it return 7 <br>
 
 
 
