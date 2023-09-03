@@ -6,4 +6,6 @@ On eherscan we can verify and publish our contract code <br>
 
 right now our code looks like huge byte code <br>
 
+and anybody looking at our contract directly on chain will see huge bytecode <br>
+
 
