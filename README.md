@@ -69,6 +69,9 @@ the button we saw at remix to write from our contract we can see it here <br>
 
 if we click this read contract button and click the retrieve button we can see it return 7 <br>
 
+thus our contract is verified <br>
+
+
 
 
 
