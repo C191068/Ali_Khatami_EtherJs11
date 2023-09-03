@@ -45,6 +45,10 @@ we will click the above button <br>
 then we will see that our contract is successfully compiled <br>
 
 
+![m64](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/3f0fa386-7300-4caf-ad76-746775d91c1b)
+
+if we click the button shown with black arrow we will see our whole code <br>
+
 
 
 
