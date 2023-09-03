@@ -59,10 +59,11 @@ we will copy our this contract address <br>
 now if we paste it at filter we can see that anybody can read our contract code and that is what we <br>
 called smart contract to be transparent <br>
 
+![m67](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/8db3abbf-589c-407b-8916-c259a7527049)
+the button we saw at remix to read from our contract we can see it here <br>
 
-
-
-
+![m68](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/8d0707d2-4785-473b-a7fd-7122046a4b13)
+the button we saw at remix to write from our contract we can see it here <br>
 
 
 
