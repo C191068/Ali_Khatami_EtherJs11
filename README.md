@@ -14,3 +14,7 @@ like in solidity <br>
 
 But this can take a long time and lot of processing power <br>
 
+so we can make it esaier by verifying and publishing trhe code by ourselves <br>
+
+
+
