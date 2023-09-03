@@ -72,6 +72,8 @@ if we click this read contract button and click the retrieve button we can see i
 thus our contract is verified <br>
 
 
+using larger or complex code can make verfication process a much harder <br>
+
 
 
 
