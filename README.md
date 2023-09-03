@@ -26,6 +26,12 @@ here we cann add compiler information to compile this on etherscan <br>
 
 we have added the above information <br>
 
+![m60](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/1039271b-0e55-497a-a6bd-72a7939b6355)
+
+then we click the ```Continue``` button <br>
+
+
+
 
 
 
