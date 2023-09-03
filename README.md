@@ -49,6 +49,9 @@ then we will see that our contract is successfully compiled <br>
 
 if we click the button shown with black arrow we will see our whole code <br>
 
+![m65](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/8fb28538-f92b-42a6-ba22-ee0c9edf5d6c)
+
+we will copy our this contract address <br>
 
 
 
