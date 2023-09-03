@@ -36,6 +36,25 @@ then we click the ```Continue``` button <br>
 
 we paste the code here shown above <br>
 
+![m62](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/12537aa9-56bf-4b46-91d7-2fd012ce9cbb)
+
+we will click the above button <br>
+
+![m63](https://github.com/C191068/Ali_Khatami_EtherJs11/assets/89090776/39307e71-45f1-4427-846d-97b7a13b5af4)
+
+then we will see that our contract is successfully compiled <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
